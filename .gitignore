@@ -9,7 +9,8 @@
 /storage/framework/cache/data
 /storage/framework/sessions
 /storage/framework/testing
-/storage/framework/views
+/storage/framework/views/*.php
+!/storage/framework/views/.gitkeep
 /storage/logs
 .env
 .env.backup
