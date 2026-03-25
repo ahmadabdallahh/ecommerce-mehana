@@ -1,0 +1,50 @@
+# Laravel
+/vendor
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/storage/pail
+/storage/framework/cache/data
+/storage/framework/sessions
+/storage/framework/testing
+/storage/framework/views
+/storage/logs
+.env
+.env.backup
+.env.production
+.phpunit.result.cache
+.phpactor.json
+Homestead.json
+Homestead.yaml
+auth.json
+
+# IDEs
+/.fleet
+/.idea
+/.nova
+/.phpunit.cache
+/.vscode
+/.zed
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Database dumps
+*.sql
+*.sqlite
+*.sqlite3
+
+# Composer
+composer.phar
+
+# NPM
+npm-debug.log
+yarn-error.log
+
+# Build artifacts
+/dist
+/build
